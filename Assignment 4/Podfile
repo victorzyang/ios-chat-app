@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+
+target 'Assignment 4' do
+  use_frameworks!
+  pod 'Starscream'
+
+end
